@@ -8,8 +8,5 @@ csello
 mello
 vello
 
-jello
-pello
-
 qello
 éllo
