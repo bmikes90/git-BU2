@@ -10,3 +10,6 @@ vello
 
 jello
 pello
+
+qello
+éllo
