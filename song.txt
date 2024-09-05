@@ -6,7 +6,3 @@ mello
 
 csello
 mello
-vello
-
-qello
-éllo
